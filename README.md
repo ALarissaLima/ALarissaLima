@@ -1,3 +1,5 @@
+<div backgroundColor = "#000000"> 
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ada7c9&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5ebe0&size=35&center=true&vCenter=true&width=1000&lines=👩🏻‍💻+HELLO,+My+name+is+Larissa;👩🏻‍💻+I'm+26+years+old;👩🏻‍💻+I'm+from+Brazil;👩🏻‍💻+I+study+web+development;👩🏻‍💻+Welcome!)](https://git.io/typing-svg)
@@ -29,3 +31,4 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ada7c9&height=120&section=footer"/>
+</div>
