@@ -1,4 +1,4 @@
-<div backgroundColor = "#000000"> 
+<div style="background: black";> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ada7c9&height=120&section=header"/>
 
